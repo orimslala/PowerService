@@ -1,0 +1,15 @@
+D:\develop\PowerService\PowerService\bin\Debug\PowerService.exe.config
+D:\develop\PowerService\PowerService\bin\Debug\PowerService.exe
+D:\develop\PowerService\PowerService\bin\Debug\PowerService.pdb
+D:\develop\PowerService\PowerService\obj\Debug\PowerService.csprojAssemblyReference.cache
+D:\develop\PowerService\PowerService\obj\Debug\PowerService.csproj.CoreCompileInputs.cache
+D:\develop\PowerService\PowerService\obj\Debug\PowerService.exe
+D:\develop\PowerService\PowerService\obj\Debug\PowerService.pdb
+D:\develop\PowerService\PowerService\bin\Debug\Serilog.dll
+D:\develop\PowerService\PowerService\bin\Debug\Serilog.Sinks.Console.dll
+D:\develop\PowerService\PowerService\bin\Debug\Serilog.Sinks.File.dll
+D:\develop\PowerService\PowerService\bin\Debug\Serilog.xml
+D:\develop\PowerService\PowerService\bin\Debug\Serilog.Sinks.Console.xml
+D:\develop\PowerService\PowerService\bin\Debug\Serilog.Sinks.File.pdb
+D:\develop\PowerService\PowerService\bin\Debug\Serilog.Sinks.File.xml
+D:\develop\PowerService\PowerService\obj\Debug\PowerService.csproj.CopyComplete

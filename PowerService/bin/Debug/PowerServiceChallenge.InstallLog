@@ -1,0 +1,38 @@
+﻿Installing assembly 'D:\develop\PowerService\PowerService\bin\Debug\PowerServiceChallenge.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\develop\PowerService\PowerService\bin\Debug\PowerServiceChallenge.InstallLog
+   assemblypath = D:\develop\PowerService\PowerService\bin\Debug\PowerServiceChallenge.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\develop\PowerService\PowerService\bin\Debug\PowerServiceChallenge.exe assembly.
+Committing assembly 'D:\develop\PowerService\PowerService\bin\Debug\PowerServiceChallenge.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\develop\PowerService\PowerService\bin\Debug\PowerServiceChallenge.InstallLog
+   assemblypath = D:\develop\PowerService\PowerService\bin\Debug\PowerServiceChallenge.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\develop\PowerService\PowerService\bin\Debug\PowerServiceChallenge.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'D:\develop\PowerService\PowerService\bin\Debug\PowerServiceChallenge.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\develop\PowerService\PowerService\bin\Debug\PowerServiceChallenge.InstallLog
+   assemblypath = D:\develop\PowerService\PowerService\bin\Debug\PowerServiceChallenge.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\develop\PowerService\PowerService\bin\Debug\PowerServiceChallenge.exe assembly.
+Committing assembly 'D:\develop\PowerService\PowerService\bin\Debug\PowerServiceChallenge.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\develop\PowerService\PowerService\bin\Debug\PowerServiceChallenge.InstallLog
+   assemblypath = D:\develop\PowerService\PowerService\bin\Debug\PowerServiceChallenge.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\develop\PowerService\PowerService\bin\Debug\PowerServiceChallenge.exe assembly.
+Remove InstallState file because there are no installers.
+Uninstalling assembly 'D:\develop\PowerService\PowerService\bin\Debug\PowerServiceChallenge.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\develop\PowerService\PowerService\bin\Debug\PowerServiceChallenge.InstallLog
+   assemblypath = D:\develop\PowerService\PowerService\bin\Debug\PowerServiceChallenge.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\develop\PowerService\PowerService\bin\Debug\PowerServiceChallenge.exe assembly.
+Uninstalling assembly 'D:\develop\PowerService\PowerService\bin\Debug\PowerServiceChallenge.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\develop\PowerService\PowerService\bin\Debug\PowerServiceChallenge.InstallLog
+   assemblypath = D:\develop\PowerService\PowerService\bin\Debug\PowerServiceChallenge.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\develop\PowerService\PowerService\bin\Debug\PowerServiceChallenge.exe assembly.
